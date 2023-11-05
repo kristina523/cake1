@@ -1,0 +1,15 @@
+/Users/kris/Projects/cake1/cake1/bin/Debug/net7.0/cake1
+/Users/kris/Projects/cake1/cake1/bin/Debug/net7.0/cake1.deps.json
+/Users/kris/Projects/cake1/cake1/bin/Debug/net7.0/cake1.runtimeconfig.json
+/Users/kris/Projects/cake1/cake1/bin/Debug/net7.0/cake1.dll
+/Users/kris/Projects/cake1/cake1/bin/Debug/net7.0/cake1.pdb
+/Users/kris/Projects/cake1/cake1/obj/Debug/net7.0/cake1.csproj.AssemblyReference.cache
+/Users/kris/Projects/cake1/cake1/obj/Debug/net7.0/cake1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kris/Projects/cake1/cake1/obj/Debug/net7.0/cake1.AssemblyInfoInputs.cache
+/Users/kris/Projects/cake1/cake1/obj/Debug/net7.0/cake1.AssemblyInfo.cs
+/Users/kris/Projects/cake1/cake1/obj/Debug/net7.0/cake1.csproj.CoreCompileInputs.cache
+/Users/kris/Projects/cake1/cake1/obj/Debug/net7.0/cake1.dll
+/Users/kris/Projects/cake1/cake1/obj/Debug/net7.0/refint/cake1.dll
+/Users/kris/Projects/cake1/cake1/obj/Debug/net7.0/cake1.pdb
+/Users/kris/Projects/cake1/cake1/obj/Debug/net7.0/cake1.genruntimeconfig.cache
+/Users/kris/Projects/cake1/cake1/obj/Debug/net7.0/ref/cake1.dll
